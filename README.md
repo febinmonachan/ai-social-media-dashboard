@@ -30,7 +30,11 @@ This module processes social media performance data and converts it into clear v
 
 ## Screenshots
 
-(Add screenshots here)
+![Dashboard Screenshot](dashboard.png)
+![Dashboard Screenshot](graph.png)
+![Dashboard Screenshot](chart.png)
+![AI Insight](insight.png)
+
 
 ---
 
